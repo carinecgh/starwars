@@ -1,6 +1,10 @@
 # starwars
 Desafio B2W - Star Wars Project
 
+O desenvolvimento foi realizado na IDE NetBeans, com um projeto Mavem, usando a API REST e linguagem Java. O mesmo foi testado no browsers Google Chrome e Microsoft Edge. E todas as funcionalidades solicitadas, inclusive o consumo da API pública do star wars foram implementadas.
+
+De todos os requisitos solicitados apenas o banco de dados usado não seguiu as sugestões passadas, sendo utilizado o postgresql. A seguir o script para criação do mesmo, porém a aplicação já está apontando para um banco criado e ativo que estou disponibilizando para os testes de vocês.
+
 --
 -- PostgreSQL database dump
 --
